@@ -16,14 +16,17 @@ open cmd (as administrator) and run this command --> net start MongoDB
 </div>
 
 <div style="align:center">
-  Login page
+  <h3>Login page<h3/>
+    <br>
   <img src ="/vidserveImages/vidLogin.PNG" title="Login page"/>
 </div>
 <div>
-  Home page
+  <h3>Home page<h3/>
+    <br>
   <img src ="/vidserveImages/home.PNG" title="Home page"/>
 </div>
 <div>
-  Upload-file page
+  <h3>Upload-file page<h3/>
+    <br>
   <img src ="/vidserveImages/upload.PNG" title="Upload-file page"/>
 </div>
