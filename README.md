@@ -10,18 +10,15 @@ To start mongod:
 open cmd (as administrator) and run this command --> net start MongoDB
 
 <div>
-  <img src ="/vidserveImages/signUP.PNG"/>
+  <img src ="/vidserveImages/signUP.PNG" title="SignUP page"/>
 </div>
 
 <div style="align:center">
-  <img src ="/vidserveImages/vidLogin.PNG"/>
-</div>
-
-
-
-<div>
-  <img src ="/vidserveImages/home.PNG"/>
+  <img src ="/vidserveImages/vidLogin.PNG" title="Login page"/>
 </div>
 <div>
-  <img src ="/vidserveImages/upload.PNG"/>
+  <img src ="/vidserveImages/home.PNG" title="Home page"/>
+</div>
+<div>
+  <img src ="/vidserveImages/upload.PNG" title="Upload-file page"/>
 </div>
